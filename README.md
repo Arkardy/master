@@ -1,2 +1,2 @@
 # master
-Урок 1. Основы языка JavaScript
+Основы языка JavaScript
